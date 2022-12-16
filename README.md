@@ -39,12 +39,3 @@ Every step in the **expansive path** consists of:
 
 
 At the final layer a 1x1 convolution is used to map each 64-component feature vector to the desired number of classes. total the network has 23 convolutional layers.
-
-## Training
-
-* Stochastic Gradient Descent (SGD)
-* Batch Size = ```1```
-* Momentum = ```0.99```
-* Loss: Cross-Entropy Loss
-* Data Augmentation: shift, rotation, ranodm elastic deformation (random displacement, per-pixel displacements)
-* The output image is smaller than the input by a constant border width
