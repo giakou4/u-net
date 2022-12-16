@@ -38,4 +38,4 @@ Every step in the **expansive path** consists of:
 * ReLU
 
 
-At the final layer a 1x1 convolution is used to map each 64-component feature vector to the desired number of classes. total the network has 23 convolutional layers.
+At the final layer a ```1x1``` convolution is used to map each 64-component feature vector to the desired number of classes. In total the network has 23 convolutional layers.
