@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/giakou4/u-net/main/assets/bg.png">
+  <img src="https://raw.githubusercontent.com/giakou4/u-net/main/assets/bg.jpg">
 </p>
 
 # U-NET
